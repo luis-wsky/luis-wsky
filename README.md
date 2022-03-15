@@ -4,8 +4,8 @@ Olá 👋
 
 Um pouquinho sobre esse cara:
 
-- Hobbies: ler, cuidar do cachorros, caminhada, música...
-- Formação: Física | Participante da 7ª ed. do Programa Full Stack Web Developer na Growdev.
+- Hobbies: ler, cuidar dos meus cachorros, caminhada, música...
+- Formação: Física Licenciatura | Participante da 7ª ed. do Programa Full Stack Web Developer na Growdev.
 - Idiomas: Português avançado | Inglês intermediário | Intercâmbio Cultural na África do Sul.
 - Cursos: Automação e Robótica com Arduino pela Softgraf.
 - Experiência: Trabalhei no setor comercial com atendimento ao público e gestão de estoque | Como professor de Física | Transição de carreira para Full Stack Web Developer.
