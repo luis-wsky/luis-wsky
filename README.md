@@ -2,8 +2,7 @@ Olá 👋
 
 <p>Me chamo<strong> Luis A. Wendrechoski</strong></p>
 
-
-Here are some ideas to get you started:
+Um pouquinho sobre esse cara:
 
 - Hobbies: ler, cuidar do cachorros, caminhada, música...
 - Formação: Física | Participante da 7ª ed. do Programa Full Stack Web Developer na Growdev
