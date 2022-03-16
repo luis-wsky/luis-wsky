@@ -8,7 +8,7 @@ Um pouquinho sobre esse cara:
 - Formação: Física Licenciatura | Participante da 7ª ed. do Programa Full Stack Web Developer na Growdev.
 - Idiomas: Português avançado | Inglês intermediário | Intercâmbio Cultural na África do Sul.
 - Cursos: Automação e Robótica com Arduino pela Softgraf.
-- Experiência: Trabalhei no setor comercial com atendimento ao público e gestão de estoque | Como professor de Física | Transição de carreira para Full Stack Web Developer.
+- Experiência: Trabalhei no setor comercial com atendimento ao público e gestão de estoque | Professor de Física | Transição de carreira para Full Stack Web Developer.
 - Tecnologia: Aprendendo HTML | CSS | Javascript | Python
 - Como me encontrar: <a href="https://www.linkedin.com/in/luis-a-w-b1354022a/">LinkedIn</a> | 
 <div align="center">
